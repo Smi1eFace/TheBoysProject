@@ -1,0 +1,53 @@
+.textBoxDiv {
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+	width: 100%;
+}
+
+.textBox {
+	box-sizing: border-box;
+	padding-left: 10px;
+	width: 75%;
+	height: 50px;
+	font-size: 20px;
+	background-color: gray;
+	border: 1px solid;
+	border-radius: 10px;
+}
+
+.Button {
+	width:25%;
+	margin-top: 10px;
+	height: 50px;
+	font-size: 20px;
+	background-color: gray;
+	border: 1px solid;
+	border-radius: 10px;
+}
+
+.Button:hover {
+	background-color: black;
+}
+
+#exit {
+	position: absolute;
+	margin: 10px 10px 0 0;
+	width: 30px;
+	height: 30px;
+	color: red;
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#exit:hover {
+	background-color: red;
+	color: black;
+}
+
+#noteTextbox {
+	border: 0;
+	width: 100%;
+}

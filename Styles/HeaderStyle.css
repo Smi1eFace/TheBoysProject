@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+	color:white;
+}
+
+html {
+	background-color: gray;
+}
+
+div {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.HeaderDiv {
+	padding: 20px 0 1px 0;
+	background-color:black;
+	font-size: 30px;
+}
+
+#qoute {
+	padding: 1px 0 20px 0;
+	border-bottom: 3px solid white;
+	font-size: 8px;
+}

@@ -1,0 +1,23 @@
+.loginDiv {
+	display: block;
+	text-align: center;
+	margin-top: 25%;
+}
+
+#paragraphDiv {
+	width: 90%;
+	display: block;
+	text-align: center;
+/*	background-color:red;*/
+	margin: 10px 0 0 5%;
+}
+
+.paragraph {
+	font-size: 15px;
+	font-style: bold;
+}
+
+#p3 , #p4 {
+	font-style: italic;
+	color: black;
+}
